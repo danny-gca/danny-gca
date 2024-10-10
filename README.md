@@ -7,8 +7,12 @@
   />
 </p>
 
-- 🔭 Je travaille chez **K-ZAM** - 📫 Comment me contacter ? [Voir mon
-site](https://danny-garcia.fr/#Contact)
+<p align="left">
+- 🔭 Je travaille chez **K-ZAM**
+</p>
+<p align="left">
+📫 Comment me contacter ? [Voir mon site](https://danny-garcia.fr/#Contact)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
