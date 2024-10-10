@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats-j3tl.vercel.app/api?username=danny-gca&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
+<p>
+<!--START_SECTION:activity-->
+</p>
