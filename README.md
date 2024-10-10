@@ -301,7 +301,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=danny-gca&show_icons=true&theme=synthwave&locale=en&layout=compact"
+    src="https://github-readme-stats-j3tl.vercel.app/api/top-langs?username=danny-gca&show_icons=true&theme=synthwave&locale=en&layout=compact"
     alt="danny-gca"
   />
 </p>
