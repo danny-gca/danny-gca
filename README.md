@@ -14,6 +14,8 @@
   📫 Pour me contacter : https://danny-garcia.fr/#Contact
 </p>
 
+<hr/>
+
 <h3 align="left">👉👈 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/danny-g-24100810a" target="blank">
@@ -25,6 +27,8 @@
       width="40"
   /></a>
 </p>
+
+<hr/>
 
 <h3 align="left">🗣️ Languages and Tools: (too many...)</h3>
 <p align="left">
@@ -301,31 +305,29 @@
 <hr/>
 
 <h2>📈 Stats </h2>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats-j3tl.vercel.app/api/top-langs?username=danny-gca&show_icons=true&theme=synthwave&locale=en&layout=compact"
-    alt="danny-gca"
-  />
-</p>
-
-<p>
-  &nbsp;
-  <img
-    align="center"
-    src="https://github-readme-stats-j3tl.vercel.app/api?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&layout=compact"
-    alt="danny-gca"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danny-gca&theme=dark"
-    alt="danny-gca"
-  />
-</p>
+<div>
+  <p style="text-align:'center';">
+    <img
+      align="center"
+      src="https://github-readme-stats-j3tl.vercel.app/api/top-langs?username=danny-gca&show_icons=true&theme=synthwave&locale=en&layout=compact"
+      alt="danny-gca"
+    />
+  </p>
+  <p style="text-align:'center';">
+    <img
+      align="center"
+      src="https://github-readme-stats-j3tl.vercel.app/api?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&layout=compact"
+      alt="danny-gca"
+    />
+  </p>
+  <p style="text-align:'center';">
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=danny-gca&theme=dark"
+      alt="danny-gca"
+    />
+  </p>
+</div>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
