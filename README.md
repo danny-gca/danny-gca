@@ -24,14 +24,14 @@
   <p style="text-align:'center';">
     <img
       align="center"
-      src="https://github-readme-stats-hxcbo61xa-dannys-projects-1ec5fe0d.vercel.app/api/top-langs?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=donut&langs_count=6"
+      src="https://github-readme-stats-j3tl.vercel.app/api/top-langs?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=donut&langs_count=6"
       alt="danny-gca"
     />
   </p>
   <p style="text-align:'center';">
     <img
       align="center"
-      src="https://github-readme-stats-hxcbo61xa-dannys-projects-1ec5fe0d.vercel.app/api?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact"
+      src="https://github-readme-stats-j3tl.vercel.app/api?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact"
       alt="danny-gca"
     />
   </p>
