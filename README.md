@@ -13,10 +13,9 @@
 <p align="left">
   📫 Pour me contacter : https://danny-garcia.fr/#Contact
 </p>
-
-<hr/>
-
-<h3 align="left">👉👈 Connect with me:</h3> https://linkedin.com/in/danny-g-24100810a
+<p align="left">
+  🛜 LinkedIn : https://linkedin.com/in/danny-g-24100810a
+</p>
 
 <hr/>
 
