@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🔭 Je travaille chez <b>K-ZAM</b>
+  🔭 Je suis développeur Web chez <b>K-ZAM</b>
 </p>
 <p align="left">
   📫 Pour me contacter : https://danny-garcia.fr/#Contact
