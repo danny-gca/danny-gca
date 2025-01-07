@@ -18,32 +18,3 @@
 </p>
 
 <hr/>
-
-<h2>📈 Stats </h2>
-<div>
-  <p style="text-align:'center';">
-    <img
-      align="center"
-      src="https://github-readme-stats-j3tl.vercel.app/api/top-langs?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=donut&langs_count=6"
-      alt="danny-gca"
-    />
-  </p>
-  <p style="text-align:'center';">
-    <img
-      align="center"
-      src="https://github-readme-stats-j3tl.vercel.app/api?username=danny-gca&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact"
-      alt="danny-gca"
-    />
-  </p>
-  <p style="text-align:'center';">
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=danny-gca&theme=dark"
-      alt="danny-gca"
-    />
-  </p>
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
