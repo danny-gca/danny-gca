@@ -16,5 +16,3 @@
 <p align="left">
   🛜 LinkedIn : https://linkedin.com/in/danny-g-24100810a
 </p>
-
-<hr/>
