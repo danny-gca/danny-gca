@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🔭 Je suis développeur Web chez <b>K-ZAM</b>
+  🔭 Je suis Développeur Web Full-Stack, à la recherche d'une entreprise 🤝
 </p>
 <p align="left">
-  📫 Pour me contacter : https://danny-garcia.fr/#Contact
+  📫 Pour me contacter, jetez un coup d'oeil à mon site 👀 : https://danny-garcia.fr
 </p>
 <p align="left">
-  🛜 LinkedIn : https://linkedin.com/in/danny-g-24100810a
+  🛜 LinkedIn : https://linkedin.com/in/danny-gca
 </p>
